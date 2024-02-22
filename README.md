@@ -1,17 +1,18 @@
-# pikoflyerrorleds
-== CLK is not connected
+# PIKOFLY ERRORES
+
+<h3> == CLK No conectado </h3>
 
 ![CLK (1)](https://github.com/ELCALLEJONGAMER/pikoflyerrorleds/assets/57427897/100a1291-bbe2-4def-8409-1ee515c31365)
 
-*= CMD is not connected
+*= CMD No conectado
 
 ![CMD](https://github.com/ELCALLEJONGAMER/pikoflyerrorleds/assets/57427897/f1114045-d87b-44e1-a52e-f59cbecb3b16)
 
-=* D0 is not connected
+=* D0 No conectado
 
 ![DAT0](https://github.com/ELCALLEJONGAMER/pikoflyerrorleds/assets/57427897/6c3574ec-4dae-4302-9b70-4fd696b8bba7)
 
-** RST is not connected
+** RST No conectado
 
 ![RST](https://github.com/ELCALLEJONGAMER/pikoflyerrorleds/assets/57427897/146027e2-6e0d-4a52-8417-c44844e19dc2)
 
