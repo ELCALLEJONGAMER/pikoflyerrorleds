@@ -24,5 +24,5 @@
 <h3> 🤝🏻 Sígueme </h3>
 
 <p align="center">
-&nbsp; <a href="https://youtube.com/@elcallejongamer" target="_blank" rel="noopener noreferrer"><img src="[https://img.icons8.com/plasticine/100/000000/twitter.png](https://icons8.com/icons/set/youtube)" width="50" /></a>  
+&nbsp; <a href="https://youtube.com/@elcallejongamer" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icons/set/youtube" width="50" /></a>  
 </p>
